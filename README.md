@@ -23,7 +23,7 @@ What I Did
 2. Converted airway data to DESeq2 format
 3. Ran differential gene expression
 4. Created volcano plot and heatmap
-5  Saved the output in a project folder
+5. Saved the output in a project folder
 
 Why I Made This
 
