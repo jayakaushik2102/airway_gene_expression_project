@@ -12,10 +12,10 @@ Tools and Packages Used
 6. airway (example dataset)
 
 Files Included
-
-1. DESeq2_results.csv - table of genes with log2 fold changes and p-values  
-2. volcano_plot.png - plot to show significant up/downregulated genes  
-3. heatmap_top_genes.png - expression pattern of top 20 DE genes
+1. Airway_gene_expression_project.R : Main R script containing the full work flow
+2. DESeq2_results.csv - table of genes with log2 fold changes and p-values  
+3. volcano_plot.png - plot to show significant up/downregulated genes  
+4. heatmap_top_genes.png - expression pattern of top 20 DE genes
 
 What I Did
 
